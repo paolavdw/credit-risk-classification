@@ -17,5 +17,5 @@
 
 ## Summary
 
-Overall, the model performs very well for class 0 (healthy loans), but has room for improvement in predicting class 1 (high risk of defaulting). To improve precision for class 1, we might consider resampling the dataset, tuning the model parameters, and the use of different algorithms to be able to a make a better decision at choosing the right machine learning model. 
+Overall, the model performs very well for class 0 (healthy loans), but has room for improvement in predicting class 1 (high risk of defaulting). To improve precision for class 1, we might consider resampling the dataset, tuning the model parameters, and the use of different algorithms to be able to a make a better decision at choosing the right machine learning model. Although there is room for improvements predicting class 1, the overall score of the model is acceptable and should therefore be used.   
 
